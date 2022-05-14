@@ -1,1 +1,1 @@
-I am learning git
+I am learning git. Now I kow how to push codes
