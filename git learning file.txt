@@ -1,1 +1,2 @@
 I am learning git. Now I kow how to push codes
+I am writing this massage for my local folder 
