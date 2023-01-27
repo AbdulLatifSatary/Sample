@@ -3,4 +3,8 @@ I am writing this massage for my local folder
 I am writing this massage pushing to local file for date May 24
 Pushing new code dated December 20 2022
 I am pushing code on Jan 26 night 2023
+<<<<<<< HEAD
 I am pushing the modified code on night of Jan 26 2023
+=======
+The code has bug it need to be fixed Jan 26 23
+>>>>>>> 8b036ba0f76ba2952db1f4bc7f0295de0368a523
